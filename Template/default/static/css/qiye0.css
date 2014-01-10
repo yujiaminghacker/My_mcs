@@ -1,0 +1,11 @@
+body,a,dt,dd,ul,li,span,p,img,form,input,dl,input{
+	margin: 0;padding: 0;list-style: none;
+}
+a{
+	text-decoration: none;
+
+}
+body{
+	font-size: 12px;
+	font-family: 新宋体，黑体，
+}

@@ -1,0 +1,3 @@
+<?php
+//0000000010a:7:{i:0;a:4:{s:3:"cid";s:1:"1";s:8:"cat_name";s:12:"新闻中心";s:3:"pid";s:2:"13";s:9:"cat_order";s:1:"0";}i:1;a:4:{s:3:"cid";s:1:"4";s:8:"cat_name";s:12:"产品专区";s:3:"pid";s:2:"13";s:9:"cat_order";s:1:"0";}i:2;a:4:{s:3:"cid";s:2:"16";s:8:"cat_name";s:12:"知识广场";s:3:"pid";s:2:"13";s:9:"cat_order";s:1:"0";}i:3;a:4:{s:3:"cid";s:2:"15";s:8:"cat_name";s:12:"公司介绍";s:3:"pid";s:2:"13";s:9:"cat_order";s:1:"0";}i:4;a:4:{s:3:"cid";s:1:"9";s:8:"cat_name";s:12:"集团概况";s:3:"pid";s:2:"13";s:9:"cat_order";s:1:"0";}i:5;a:4:{s:3:"cid";s:2:"10";s:8:"cat_name";s:12:"客户服务";s:3:"pid";s:2:"13";s:9:"cat_order";s:1:"0";}i:6;a:4:{s:3:"cid";s:2:"14";s:8:"cat_name";s:12:"联系我们";s:3:"pid";s:2:"13";s:9:"cat_order";s:1:"0";}}
+?>

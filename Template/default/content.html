@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>{$field.title}</title>
+</head>
+<link rel="stylesheet" type="text/css" href="__TEMPLATE__/static/css/qiye0.css"/>
+<link rel="stylesheet" type="text/css" href="__TEMPLATE__/static/css/qiye3.css"/>
+<body>
+	<div id="zuiwai">
+		<div id="top-shang">
+			
+			<dd class="gzshf"><a href="#">并不是最棒的企业站 </a>|</dd>
+			<dd class="axjjh">&nbsp;<a href="#">最更棒永远是下一个</a></dd>
+    			<dd class="zgjn"><a href="#">企业站</a> |</dd>
+    			<dd class="zgxsd"><a href="#">作者 </a>：</dd>
+    			<dd class="zjgj"><a href="#">My于佳明</a></dd>
+		</div>
+
+		<!-- 	上中 -->
+ 		<div id="top-cen">
+ 			<a href="__ROOT__"><img class="top2" src="__TEMPLATE__/static/img/top2.jpg"/></a>
+ 			<img class="top3" src="__TEMPLATE__/static/img/top3.jpg"/>
+ 			<img class="zili" src="__TEMPLATE__/static/img/zili.jpg"/>
+
+ 		</div>
+
+ 			<!-- 导航 -->
+ 		<div id="top-bottom">
+ 			 <include file="./template/default/header.html"/><!-- 引入 导航-->
+ 		</div>
+		<img src="__TEMPLATE__/static/img3/2.jpg" alt="" width="950px" />
+
+		<div class="cen">
+			<div class="cen-1">
+				<div class="cen-shang">
+				<ul class="cen-2">
+					<strong>{$field.title}</strong>
+				</ul>
+				<ul class="cen-3">
+				  	发布时间：{$field.addtime|date:'Y-m-d H:i:m' ,@@} 浏览次数：{$field.click}	分享到： 24〖字号：大 中 小〗
+				 </ul>
+			</div>
+			<p>
+				{$field.content}
+			</p>
+		</div>
+	</div>
+
+
+
+</div>
+</body>
+</html>

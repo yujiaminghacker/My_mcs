@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>环境检测</title>
+    <script type="text/javascript" src="template/jquery-1.8.2.min.js"></script>
+</head>
+<body>
+<table width="600" border="1">
+    <tr>
+        <td colspan="2">扩展库检测</td>
+    </tr>
+    <tr>
+        <td width="80">Gd库</td>
+        <td>
+            <?php echo $gd;?>
+        </td>
+    </tr>
+    <tr>
+        <td width="80">Mysqli</td>
+        <td>
+            <?php echo $mysqli;?>
+        </td>
+    </tr>
+</table>
+<table width="600" border="1">
+    <tr>
+        <td colspan="2">依赖函数检测</td>
+    </tr>
+    <?php foreach($func as $f):?>
+    <tr>
+        <td width="80">
+            <?php echo $f;?>
+        </td>
+        <td>
+            <?php if(function_exists($f)){?>
+            <font>正确</font>
+            <?php }else{?>
+            <font class="error" color="red">错误</font>
+            <?php }?>
+        </td>
+    </tr>
+    <?php endforeach;?>
+</table>
+
+<table width="600" border="1">
+    <tr>
+        <td colspan="3">目录文件检测</td>
+    </tr>
+    <tr>
+        <td>目录名</td>
+        <td>可读</td>
+        <td>可写</td>
+    </tr>
+    <?php foreach($dir as $d):?>
+    <tr>
+        <td width="80">
+            <?php echo basename($d);?>
+        </td>
+        <td>
+            <?php if(is_readable($d)){?>
+            <font>正确</font>
+            <?php }else{?>
+            <font class="error" color="red">错误</font>
+            <?php }?>
+        </td>
+        <td>
+            <?php if(is_writable($d)){?>
+            <font>正确</font>
+            <?php }else{?>
+            <font class="error" color="red">错误</font>
+            <?php }?>
+        </td>
+    </tr>
+    <?php endforeach;?>
+</table>
+<a href="?step=1">上一步</a> &nbsp;<a href="javascript:;" onclick="check()">下一步</a>
+<script>
+    function check() {
+        if($(".error").length){
+            alert("你当前环境不可以安装c26Cms");
+        }else{
+            location.href= "?step=3";
+        }
+    }
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+<?php
+//0000000010a:1:{i:0;a:11:{s:2:"id";s:2:"23";s:5:"title";s:21:"和颜系列护肤品";s:7:"content";s:175:"<p style="text-align: left;"><img style="width: 753px; height: 596px;" src="http://localhost/My_Cms/upload/editor/84201389325496.jpg" title="B7PY[OP)~}XVLJR}2P{ICET.jpg"/></p>";s:7:"addtime";s:10:"1389324000";s:5:"click";s:3:"100";s:4:"flag";s:0:"";s:12:"category_cid";s:1:"4";s:9:"admin_aid";s:1:"1";s:8:"keywords";s:13:"产品专区,";s:11:"description";s:12:"产品专区";s:5:"thumb";s:0:"";}}
+?>

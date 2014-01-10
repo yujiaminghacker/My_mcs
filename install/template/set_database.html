@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>配置数据库</title>
+</head>
+<body>
+<form action="?step=check_db" method="post">
+    <table width="600" border="1">
+        <tr>
+            <td width="100">主机</td>
+            <td>
+                <input type="text" name="DB_HOST" value="localhost"/>
+            </td>
+        </tr>
+        <tr>
+            <td width="100">帐号</td>
+            <td>
+                <input type="text" name="DB_USER" value="root"/>
+            </td>
+        </tr>
+        <tr>
+            <td width="100">密码</td>
+            <td>
+                <input type="password" name="DB_PASSWORD"/>
+            </td>
+        </tr>
+        <tr>
+            <td width="100">数据库</td>
+            <td>
+                <input type="text" name="DB_DATABASE"/>
+            </td>
+        </tr>
+    </table>
+    <a href="?step=2">上一步</a> &nbsp;<input type="submit" value="下一步"/>
+</form>
+</body>
+</html>

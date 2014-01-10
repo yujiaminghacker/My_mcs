@@ -1,0 +1,182 @@
+body{padding:0;margin:0;font-size:12px;font-family:"宋体";background:url(../images/news/body.jpg) repeat-x;color:#666666;}
+div,form,img,ul,ol,li,dl,dd,dt,p { margin: 0; padding: 0; border: 0;}
+h1,h2,h3,h4,h5,h6 { margin:0; padding:0; font-size:12px; font-weight:normal;}
+ul,li,dd,dt { list-style: none }
+img{vertical-align:middle}
+
+#wrap{width:1071px;margin:0 auto;}
+#head{width:1071px;height:186px;}
+.top{width:1071px;height:29px;}
+	/*.topleft{float:left;width:98px;height:29px;line-height:29px;margin-left:90px;}
+.topleft a{font-size:15px;color:#8eaada;text-decoration:none;}*/
+	/*临时*/
+	.topleft{float:left;width:600px;height:29px;line-height:29px;margin-left:80px;}
+	.topleft li{float:left;}
+	.topleft a:hover{text-decoration:underline;}
+	.topleft a{display:block; margin-left:5px; height:29px;font-size:12px;color:#216AB9;text-decoration:none;text-align:center;}
+	/*临时*/
+	
+	.topcenter{float:left;width:410px;height:29px;overflow:hidden;line-height:29px;margin-left:85px;}
+	.topcenter a:hover{text-decoration:underline;}
+	.topcenter a{font-size:12px;color:#000000;text-decoration:none;}
+	.topright{float:right;width:219px;height:29px;line-height:29px;margin-right:50px;}
+	.topright li{float:left;}
+	.topright a:hover{text-decoration:underline;}
+	.topright a{display:block;width:72px;height:29px;font-size:12px;color:#216AB9;text-decoration:none;text-align:center;}
+.top1{width:1071px;height:89px;}
+	.top1left1{width:70px;height:89px;float:left;margin-left:63px;display:inline;}
+	.top1left2{width:292px;height:89px;float:left;}
+	.top1left3{width:311px;height:89px;float:left;margin-left:30px;display:inline;}
+	.top1left4{float:right;width:160px;height:89px;margin-right:85px;display:inline;}
+	.top1left4 img{width:74px;height:48px;margin-top:25px;display:inline;}
+.nav{width:1071px;height:66px;background:url(../images/news/navbeijing.jpg) no-repeat;overflow:hidden;margin-left:43px;}
+	.navzhong{width:950px;height:66px;float:left;background:url();}
+		.navshang{width:950px;height:36px;}
+			.nav1{float:left;width:76px;height:36px;background:url(../images/news/nav1.jpg)no-repeat;}
+			.nav2{float:left;width:78px;height:36px;background:url(../images/news/nav2.jpg)no-repeat;}
+			.nav3{float:left;width:81px;height:36px;background:url(../images/news/nav3.jpg)no-repeat;}
+			.nav4{float:left;width:80px;height:36px;background:url(../images/news/nav4.jpg)no-repeat;}
+			.nav5{float:left;width:81px;height:36px;background:url(../images/news/nav5.jpg)no-repeat;}
+			.nav6{float:left;width:79px;height:36px;background:url(../images/news/nav6.jpg)no-repeat;}
+			.nav7{float:left;width:82px;height:36px;background:url(../images/news/nav7.jpg)no-repeat;}
+			.nav8{float:left;width:78px;height:36px;background:url(../images/news/nav8.jpg)no-repeat;}
+			.nav9{float:left;width:80px;height:36px;background:url(../images/news/nav9.jpg)no-repeat;}
+			.nav10{float:left;width:80px;height:36px;background:url(../images/news/nav10.jpg)no-repeat;}
+			.nav11{float:left;width:80px;height:36px;background:url(../images/news/nav11.jpg)no-repeat;}
+			.nav12{float:left;width:74px;height:36px;background:url(../images/news/nav12.jpg)no-repeat;}
+			#navxia{width:950px;height:30px;background:url(../images/news/navxia.jpg) no-repeat;}
+	
+	#tab{width:1000px;height:30px;margin-left:15px;}
+	#tab1,#tab2,#tab3,#tab4,#tab5,#tab6,#tab7,#tab8,#tab9,#tab10,#tab11{display:inline;float:left;}
+	#tab1 li,#tab2 li,#tab3 li,#tab4 li,#tab5 li,#tab6 li,#tab7 li,#tab8 li,#tab9 li,#tab10 li,#tab11 li{float:left;width:110px;height:30px;}
+	#tab1 a,#tab2 a,#tab3 a,#tab4 a,#tab5 a,#tab6 a,#tab7 a,#tab8 a,#tab9 a,#tab10 a,#tab11 a{display:block;width:110px;height:13px;margin-top:8px;border-right:1px solid #ffffff;text-align:center;font-size:12px;color:#666666;}
+#mainbody{width:1071px;margin-bottom:16px;}
+	.mainnei{width:951px;margin-left:45px;}
+	.neizuo{float:left;width:683px;}
+		.baili{width:683px;height:155px;}
+		.qiyeshang{width:683px;height:260px;}
+		.bao{width:222px;height:260px;float:left;}
+		.qiye{background:url(../images/news/qiye.jpg) no-repeat;width:222px;height:157px;}
+		.qiyetu{width:222px;height:77px;margin-top:10px;}
+		.daohang{width:183px;height:30px;line-height:30px;margin-left:27px;}
+		.daohang span{float:right;}
+		.daohang span a{font-size:12px;font-weight:normal;color:#cccccc;text-decoration:none;}
+		.qiyeyou{float:right;width:445px;height:260px;background:url(../images/news/qiyeyou.jpg) no-repeat;overflow:hidden;}
+		.tuzi{width:412px;height:99px;margin-top:11px;margin-left:14px;}
+		.tu{width:140px;height:99px;float:left;}
+		.zi{width:249px;height:99px;line-height:23px;text-indent:2em;float:right;}
+		.xu{width:418px;height:76px;margin-top:15px;margin-left:13px;}
+		.xu li{width:418px;height:23px;line-height:23px;background:url(../images/news/fang1.jpg) no-repeat left;border-top:1px dotted #cccccc;}
+		.xu li a{font-size:12px;color:#216AB9;text-decoration:none;margin-left:15px;display:inline-block;}
+		.xu a:hover{text-decoration:underline;}
+		.xu span{float:right;margin-right:8px;}
+		.bai{width:680px;height:116px;}
+		.huantab{width:682px;height:186px;background:url(../images/news/tab1.jpg) no-repeat;}
+		.tab11 li{width:66px;height:28px;line-height:28px;float:left;}
+		.tab11 a{display:block;text-align:center;font-size:12px;color:#006699;text-decoration:none;width:66px;height:28px;border-left:1px solid #B8CFE1;border-right:1px solid #B8CFE1;}
+		
+		#cptabfang1,#cptabfang2,#cptabfang3,#cptabfang4{width:663px;height:121px;margin-top:15px;margin-left:11px;}
+		#left{float:left;width:21px;height:121px;margin-top:15px;cursor:hand}
+		.centent{float:left;width:590px;height:121px;margin-left:14px;overflow:hidden;}
+		#right{float:right;width:21px;height:63px;margin-top:15px;cursor:hand}
+		.fzy1{width:683px;height:330px;}
+		.fzou{float:left;width:273px;height:330px;background:url(../images/news/lvyou.jpg) no-repeat;}
+		.fyou{float:right;width:400px;height:330px;background:url(../images/news/lvyou1.jpg) no-repeat;margin-right:3px;}
+		.youyi{width:367px;height:114px;margin-top:16px;margin-left:14px;}
+		.youyitu{float:left;width:139px;height:99px;}
+		.youyizi{float:right;width:203px;height:114px;line-height:22px;text-indent:2em;}
+		.difang{width:371px;height:167px;margin-left:11px;}
+		.difang li{width:371px;height:24px;line-height:24px;border-top:1px dotted #cccccc;}
+		.difang span{float:right;color:#666666}
+		.difang a{ont-size:12px;color:#0c61b8;text-decoration:none;margin-left:6px;display:inline-block;}
+		.difang a:hover{text-decoration:underline;}
+		.yiyi a:hover{text-decoration:;}
+		
+		.jiankangzhishi{width:682px;height:115px;}
+		.jiankang{width:335px;height:115px;float:left;background:url(../images/news/jiankang.jpg) no-repeat;}
+		.zhishi{float:right;width:335px;height:115px;background:url(../images/news/jiankang.jpg) no-repeat;}
+		.jianzi{width:290px;height:69px;margin-top:8px;margin-left:10px;}
+		.jtu{float:left;width:81px;height:61px;margin-top:5px;}
+		.jzi{float:right;width:200px;height:69px;}
+		.jzi li{width:200px;height:23px;line-height:23px;background:url(../images/news/fang1.jpg) no-repeat left;}
+		.jzi a{margin-left:15px;font-size:12px;color:#1E6AB6;text-decoration:none;display:inline-block;}
+		.jzi a:hover{text-decoration:underline;}
+		
+		.gzl{width:682px;height:155px;}
+		.gzlz{float:left;width:269px;height:155px;background:url(../images/news/wangle.jpg) no-repeat;}
+		.gzly{float:right;width:399px;height:155px;background:url(../images/news/wangle1.jpg) no-repeat;}
+		.gzlzi{width:243px;height:92px;margin-top:10px;margin-left:15px;line-height:24px;}
+		.gzlzi a{font-size:12px;color:#216AB9;text-decoration:none;display:inline-block;}
+		.gzltz{width:371px;height:94px;margin-top:17px;margin-left:14px;display:inline-block;}
+		.zl1{float:left;width:119px;height:94px;}
+		.t1{float:right;width:241px;height:94px;line-height:23px;}
+		.t1 a{font-size:12px;color:#216AB9;text-decoration:none;}
+		
+		.zuixia{width:681px;height:120px;display:inline;}
+		.xiazuo{float:left;width:268px;height:120px;background:url(../images/news/xiazuo.jpg) no-repeat;}
+		.xiayou{float:right;width:402px;height:120px;background:url(../images/news/xiayuo.jpg) no-repeat;}
+		.zuoxiab{width:217px;height:66px;margin-top:13px;margin-left:23px;}
+		.zuoxiab li{width:217px;height:23px;line-height:23px;background:url(../images/news/fang1.jpg) no-repeat left;}
+		.zuoxiab a{font-size:12px;color:#216AB9;text-decoration:none;margin-left:10px;display:inline-block;}
+		.zuoxiab a:hover{text-decoration:underline;}
+		.dl dl{width:39px;height:18px;line-height:18px;text-align:center;margin-top:4px;}
+		.dl a{font-size:12px;color:#216AB9;text-decoration:none;display:inline-block;}
+		
+	.neiyou{float:right;width:260px;}
+		.xinwen{width:256px;height:154px;background:url(../images/news/xinwen.jpg) no-repeat;}
+		.gonggao{font-size:14px;color:#000000;width:224px;height:39px;line-height:39px;margin-left:15px;border-bottom:1px dotted #cccccc;}
+		.gonggao span{float:right;}
+		.gonggao span a{font-size:12px;font-weight:normal;color:#ffffff;text-decoration:none;}
+		.yiyi{width:224px;height:107px;margin-left:14px;margin-top:3px;}
+		.yiyi li{width:224px;height:21px;line-height:21px;background:url(../images/news/fangkuai.jpg) no-repeat left;}
+		.yiyi a{font-size:12px;color:#ffffff;text-decoration:none;margin-left:17px;display:inline-block;}
+		.you1{width:255px;height:281px;margin-top:11px;background:url(../images/news/you1.jpg) no-repeat;}
+		.tuhezi{width:150px;height:96px;margin-left:;margin-top:10px;}
+		
+		.yier{width:222px;height:110px;margin-left:14px;margin-top:9px;}
+		.yier li{width:222px;height:21px;line-height:21px;background:url(../images/news/fang1.jpg) no-repeat left;}
+		.yier a{font-size:12px;color:#216AB9;text-decoration:none;margin-left:17px;display:inline-block;}
+		.yier a:hover{text-decoration:underline;}
+		
+		.you3{width:258px;height:115px;background:url(../images/news/bjt.jpg) no-repeat;margin-top:13px;}
+		.yisan li{width:235px;height:23px;line-height:23px;background:url(../images/news/fang1.jpg) no-repeat left;}
+		.yisan a{font-size:12px;color:#0c61b8;text-decoration:none;margin-left:15px;display:inline-block;}
+		.yisan a:hover{text-decoration:underline;}
+		.yousi{background:url(../images/news/gongyi.jpg) no-repeat;}
+		.sinei{width:239px;height:79px;margin-left:7px;margin-top:13px;display:inline-block;}
+		
+		.youwu{width:258px;height:113px;margin-top:16px;background:url(../images/news/shengchan.jpg) no-repeat;}
+		.wuzi{width:225px;height:60px;margin-top:10px;margin-left:17px;line-height:20px;}
+		.wuzi a{font-size:12px;color:#666666;text-decoration:none;}
+		.youliu{width:258px;height:115px;margin-top:15px;background:url(../images/news/jieneng.jpg) no-repeat;}
+		.yiliu li{width:230px;height:23px;line-height:23px;background:url(../images/news/fang1.jpg) no-repeat left;}
+		.yiliu a{ont-size:12px;color:#0c61b8;text-decoration:none;margin-left:17px;display:inline-block;}
+		.yiliu a:hover{text-decoration:underline;}
+		.youtu{width:258px;height:360px;margin-top:14px;}
+		
+		
+#footer{width:950px;height:145px;clear:both;margin-left:44px;}
+.footers{width:950px;height:36px;background:url(../images/news/f.jpg) repeat-x;}
+.fd{width:700x;height:14px;padding-left:100px;padding-top:9px;}
+.fd li{float:left;width:95px;height:14px;line-height:14px;}
+.fd a{fotn-size:12px;color:#ffffff;text-decoration:none;font-weight:bold;width:95px;height:14px;border-right:1px solid #ffffff;text-align:center;display:block;}
+.hui{width:950px;height:28px;background:url(../images/news/hui.jpg) repeat-x;}
+
+#div2,#div3,#div4,#div5{display:none;}
+
+.navzhong1{width:950px;height:33px;}
+.navzhong1 li{float:left;line-height:33px;width:79px;height:33px;background:url(../images/news/tiao.jpg) no-repeat right ;}
+.navzhong1  a{display:block;width:79px;height:33px;margin-top:3px;text-decoration:none;text-align:center;font-size:12px;color:#ffffff;font-weight:bold;text-decoration:none;}
+.navzhong1 a:hover{background:url(../images/news/fang.jpg) no-repeat center bottom;color:#26629e;}
+.nan{float:left;margin-left:4;width:142px;height:118px;margin-left:5px;border:1px solid #cccccc;}
+.nan img{margin-left:13px;margin-top:5px;}
+.nan dd{text-align:center;line-height:22px;}
+.nan a{font-size:12px;text-decoration:none;color:#666666;}
+
+a:hover{text-decoration:underline;}
+a{text-decoration:none;}
+.daohang a:hover{text-decoration:underline;}
+.daohang a{text-decoration:none;}
+.gonggao a:hover{text-decoration:underline;}
+.banquan{width:950px;}
+.adBox { border:2px solid #d2d2d2; width:676px; height:112px;}

@@ -1,0 +1,3 @@
+<?php
+//0000000010a:4:{i:0;a:6:{s:5:"Field";s:3:"cid";s:4:"Type";s:20:"smallint(5) unsigned";s:4:"Null";s:2:"NO";s:3:"Key";s:3:"PRI";s:7:"Default";N;s:5:"Extra";s:14:"auto_increment";}i:1;a:6:{s:5:"Field";s:8:"cat_name";s:4:"Type";s:8:"char(30)";s:4:"Null";s:2:"NO";s:3:"Key";s:0:"";s:7:"Default";s:0:"";s:5:"Extra";s:0:"";}i:2;a:6:{s:5:"Field";s:3:"pid";s:4:"Type";s:20:"smallint(5) unsigned";s:4:"Null";s:2:"NO";s:3:"Key";s:0:"";s:7:"Default";s:1:"0";s:5:"Extra";s:0:"";}i:3;a:6:{s:5:"Field";s:9:"cat_order";s:4:"Type";s:20:"smallint(5) unsigned";s:4:"Null";s:2:"NO";s:3:"Key";s:0:"";s:7:"Default";s:1:"0";s:5:"Extra";s:0:"";}}
+?>

@@ -1,0 +1,10 @@
+<?php
+//0000000010a:1:{i:0;a:11:{s:2:"id";s:1:"5";s:5:"title";s:42:"国珍健康体验馆在沈阳盛装开业";s:7:"content";s:2413:"<p style="text-align: center;">高速发展，捷报频传。12月29日，新时代健康产业集团再传喜讯——位于辽宁沈阳的国珍健康体验馆在新年即将到来之际隆重开业。&nbsp;</p><p style="text-align: center; "><img src="http://www.5dgz.com/upload/2013-12/3be8ae18-ff63-4335-afb7-ac72f449a35b.jpg" title="t1.jpg"/></p><p style="text-align: center;">　
+　上午9时许，公司总经理黄永刚，副总经理刘志河、毕振学、张红，新时代健康产业专家顾问委员会委员刘占文教授以及部分星级领导人和国珍专营店长代表来到
+了位于沈阳繁华商业街的健康体验馆。在公司专业讲解员的带领下，公司领导、嘉宾和新时代精英们分批参观。体验馆简洁大气的设计理念、清新淡雅的装饰风格、
+别具匠心的展区设置、生动丰富的互动体验和震撼人心的视觉展示，都让在场的新时代人啧啧赞叹。</p><p style="text-align: center; "><img src="http://www.5dgz.com/upload/2013-12/dcc6677e-eba9-4d84-baeb-594276f8efd4.jpg" style="float:none;" title="t2.jpg"/></p><p style="text-align: center; "><img src="http://www.5dgz.com/upload/2013-12/06f7b63d-280b-489d-a543-be8ac08a46d6.jpg" style="float:none;" title="t3.jpg"/></p><p style="text-align: center; "><img src="http://www.5dgz.com/upload/2013-12/44b6c893-35d6-40a5-b992-c617e1b4e1b3.jpg" style="float:none;" title="t4.jpg"/></p><p style="text-align: center; "><img src="http://www.5dgz.com/upload/2013-12/dfdfe88f-44e1-43f9-8bde-4177ca46b502.jpg" style="float:none;" title="t5.jpg"/></p><p style="text-align: center; "><img src="http://www.5dgz.com/upload/2013-12/0ec7d08d-577b-4a28-99d3-418684d697b6.jpg" style="float:none;" title="t6.jpg"/></p><p style="text-align: center; "><img src="http://www.5dgz.com/upload/2013-12/2fa8121d-4aac-4e50-b117-903bee9083d5.jpg" style="float:none;" title="t7.jpg"/></p><p style="text-align: center;">　
+　9时58分，开业仪式正式开始。张红副总经理代表公司致辞，深刻阐释了健康体验馆落户沈阳的重要意义。张副总指出，体验馆项目自2011年在北京启动以
+来，赢得了社会各界的广泛关注和普遍赞誉，成功塑造了新时代健康产业集团的品牌形象。体验馆的全面建设将进一步塑造公司良好的社会形象，有效提升公司的品
+牌知名度和美誉度。</p><p><br/></p>";s:7:"addtime";s:10:"1389232500";s:5:"click";s:3:"100";s:4:"flag";s:0:"";s:12:"category_cid";s:1:"2";s:9:"admin_aid";s:1:"1";s:8:"keywords";s:62:"高速,发展,捷报频传,12月,29日,新时代,健康,产业";s:11:"description";s:214:"高速发展，捷报频传。12月29日，新时代健康产业集团再传喜讯——位于辽宁沈阳的国珍健康体验馆在新年即将到来之际隆重开业。&nbsp;　
+　上午9时许，公司总经";s:5:"thumb";s:0:"";}}
+?>
