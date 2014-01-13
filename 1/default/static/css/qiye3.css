@@ -1,0 +1,137 @@
+
+body{
+	width: 100%;
+	margin: 0 auto;
+	background: url(../img//body.jpg)  repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+#zuiwai{
+	width: 950px;
+	height: 1000px;
+	margin: 0 auto;
+	
+}
+/*最上*/
+#top-shang{
+	width: 950px;
+	height:29px;
+	background:url(../img//lanmutiao.jpg) no-repeat;
+	float: left;
+
+}
+#top-shang dd{
+	float: left;
+	line-height: 25px;
+}
+#top-shang dd a{
+	color: #216AB9;
+}
+#top-shang dd a:hover{
+ text-decoration: underline;
+}
+.zgjn{
+	width: 60px;
+	height: 29px;
+	margin-left:560px;
+
+}
+
+/*上中*/
+#top-cen{
+	width: 950px;
+	height: 89px;
+	float: left;
+}
+
+.top2{
+	width: 85px;
+	height: 100%;
+	margin:0 0 0 20px ;
+}
+.gongsi{
+	margin: 0 0 20px 70px;
+}
+.jiaoyizhan{
+	margin: 0 0 20px 0px;
+}
+
+/*导航*/
+#top-bottom{
+	width: 950px;
+	height: 66px;
+	background:url(../img//navbeijing.jpg);
+	float: left;
+}
+#top-bottom li{
+	float: left;
+	height: 30px;
+	line-height: 35px;
+
+}
+.gang{
+	margin: 2px 5px 0 0;
+}
+#top-bottom ul{
+	float: left;
+}
+#top-bottom ul li a{
+	color: #ffffff;
+	font-weight: bold;
+}
+#top-bottom ul li a:hover{
+	color: #26629E;
+}
+#jianju1{
+	width:950px;
+	height: 15px;
+	background:#6186BB;
+	float: left;
+}
+
+/*shang?*/
+.shang{
+	width: 950px;
+	height: 56px;
+	background:url(../img3//1-1.jpg);
+	border:2px solid #EBEBEB;
+}
+/*--*/
+.cen-shang{
+	width: 950px;
+	height: 100px;
+
+	float: left;
+}
+.cen{
+	 margin: 0 auto;
+	margin-top: 20px;
+	width: 950px;
+	height: auto;
+	border: 4px solid #EBEBEB;
+
+}
+.cen-1{
+	width: 950px;
+	height: auto;
+	border: 1px solid #52D0FF;
+	font-size: 15px;
+
+}
+.cen-1 ul{
+	line-height: 30px;
+}
+.cen-2{
+	width: 100%;
+	text-align: center;
+}
+.cen-3{
+	margin-left:20%;
+}
+
+/*00000*/
+.cen-1 p{
+	line-height: 25px;
+}
+.cen-1 img{
+	margin: 20px 0 0 100px;
+}

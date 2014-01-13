@@ -11,26 +11,26 @@
 <script src='http://localhost/hdphp/hdphp/hdphp/../hdjs/org/cal/lhgcalendar.min.js'></script>
 <script type='text/javascript'>
 		HOST = 'http://localhost';
-		ROOT = 'http://localhost/My_Cms';
-		WEB = 'http://localhost/My_Cms/index.php';
-		URL = 'http://localhost/My_Cms/index.php/Cms/Login/login';
+		ROOT = 'http://localhost/My_mcs';
+		WEB = 'http://localhost/My_mcs/index.php';
+		URL = 'http://localhost/My_mcs/index.php/Cms/Login/login';
 		HDPHP = 'http://localhost/hdphp/hdphp/hdphp';
 		HDPHPDATA = 'http://localhost/hdphp/hdphp/hdphp/Data';
 		HDPHPTPL = 'http://localhost/hdphp/hdphp/hdphp/Lib/Tpl';
 		HDPHPEXTEND = 'http://localhost/hdphp/hdphp/hdphp/Extend';
-		APP = 'http://localhost/My_Cms/index.php/Cms';
-		CONTROL = 'http://localhost/My_Cms/index.php/Cms/Login';
-		METH = 'http://localhost/My_Cms/index.php/Cms/Login/login';
-		GROUP = 'http://localhost/My_Cms/G:\wamp\www\My_Cms\App';
-		TPL = 'http://localhost/My_Cms/App/Cms/Cms/Tpl';
-		CONTROLTPL = 'http://localhost/My_Cms/App/Cms/Cms/Tpl/Login';
-		STATIC = 'http://localhost/My_Cms/App/Cms/Cms/Tpl/Static';
-		PUBLIC = 'http://localhost/My_Cms/App/Cms/Cms/Tpl/Public';
+		APP = 'http://localhost/My_mcs/index.php/Cms';
+		CONTROL = 'http://localhost/My_mcs/index.php/Cms/Login';
+		METH = 'http://localhost/My_mcs/index.php/Cms/Login/login';
+		GROUP = 'http://localhost/My_mcs/G:\wamp\www\My_mcs\App';
+		TPL = 'http://localhost/My_mcs/App/Cms/Cms/Tpl';
+		CONTROLTPL = 'http://localhost/My_mcs/App/Cms/Cms/Tpl/Login';
+		STATIC = 'http://localhost/My_mcs/App/Cms/Cms/Tpl/Static';
+		PUBLIC = 'http://localhost/My_mcs/App/Cms/Cms/Tpl/Public';
 </script>
-        <script type="text/javascript" src="http://localhost/My_Cms/App/Cms/Cms/Tpl/Login/js/js.js"></script>
-		<link type="text/css" rel="stylesheet" href="http://localhost/My_Cms/App/Cms/Cms/Tpl/Login/css/bootstrap.min.css"/>
-		<link type="text/css" rel="stylesheet" href="http://localhost/My_Cms/App/Cms/Cms/Tpl/Login/css/bootstrap-responsive.min.css"/>
-        <link type="text/css" rel="stylesheet" href="http://localhost/My_Cms/App/Cms/Cms/Tpl/Login/css/unicorn.login.css"/>
+        <script type="text/javascript" src="http://localhost/My_mcs/App/Cms/Cms/Tpl/Login/js/js.js"></script>
+		<link type="text/css" rel="stylesheet" href="http://localhost/My_mcs/App/Cms/Cms/Tpl/Login/css/bootstrap.min.css"/>
+		<link type="text/css" rel="stylesheet" href="http://localhost/My_mcs/App/Cms/Cms/Tpl/Login/css/bootstrap-responsive.min.css"/>
+        <link type="text/css" rel="stylesheet" href="http://localhost/My_mcs/App/Cms/Cms/Tpl/Login/css/unicorn.login.css"/>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
     <body>
  
@@ -69,7 +69,7 @@
                                 <i class="icon-code"></i>
                             </span>
                             <input type="text" placeholder="Code"   name="code" class="w100" />
-                             <img src="<?php echo U('code');?>" style="cursor: pointer" onclick="this.src='http://localhost/My_Cms/index.php/Cms/Login/code/'+Math.random()"/>
+                             <img src="<?php echo U('code');?>" style="cursor: pointer" onclick="this.src='http://localhost/My_mcs/index.php/Cms/Login/code/'+Math.random()"/>
                             <span id="hd_code" ></span>
                         </div>
                            
@@ -82,7 +82,7 @@
             </form>
 
         </div>
-        <script type="text/javascript" src="http://localhost/My_Cms/App/Cms/Cms/Tpl/Login/js/unicorn.login.js"></script>
+        <script type="text/javascript" src="http://localhost/My_mcs/App/Cms/Cms/Tpl/Login/js/unicorn.login.js"></script>
 
     </body>
 </html>

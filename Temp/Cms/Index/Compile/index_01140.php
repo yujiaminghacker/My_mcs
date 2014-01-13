@@ -4,8 +4,8 @@
 <meta http-equiv="Content-Typee" content="text/html; charset=utf-8" />
 <title><?php echo C("webname");?> </title>
 </head>
-<link rel="stylesheet" type="text/css" href="http://localhost/My_Cms/template/default//static/css/qiye0.css"/>
-<link rel="stylesheet" type="text/css" href="http://localhost/My_Cms/template/default//static/css/qiye1.css"/>
+<link rel="stylesheet" type="text/css" href="http://localhost/My_mcs/template/default//static/css/qiye0.css"/>
+<link rel="stylesheet" type="text/css" href="http://localhost/My_mcs/template/default//static/css/qiye1.css"/>
 <body>
 	<div id="zuiwai"> 
 		<div id="top-shang">
@@ -18,27 +18,27 @@
 
 		<!-- 	上中 -->
  		<div id="top-cen">
- 			<a href="http://localhost/My_Cms"><img class="top2" src="http://localhost/My_Cms/template/default//static/img/top2.jpg"/></a>
- 			<img class="top3" src="http://localhost/My_Cms/template/default//static/img/top3.jpg"/>
- 			<img class="zili" src="http://localhost/My_Cms/template/default//static/img/zili.jpg"/>
+ 			<a href="http://localhost/My_mcs"><img class="top2" src="http://localhost/My_mcs/template/default//static/img/top2.jpg"/></a>
+ 			<img class="top3" src="http://localhost/My_mcs/template/default//static/img/top3.jpg"/>
+ 			<img class="zili" src="http://localhost/My_mcs/template/default//static/img/zili.jpg"/>
  		</div>
 
  			<!-- 导航 -->
  		<div id="top-bottom">
  				 <?php if(!defined("HDPHP_PATH"))exit;C("SHOW_NOTICE",FALSE);?>
-			   <ul><li><a href="http://localhost/My_Cms">网站首页</a></li><img class="gang" src="http://localhost/My_Cms/template/default//static/img/gang.jpg"/></ul>
+			   <ul><li><a href="http://localhost/My_mcs">网站首页</a></li><img class="gang" src="http://localhost/My_mcs/template/default//static/img/gang.jpg"/></ul>
 
-		     	<ul><li><a href="http://localhost/My_Cms/index.php/Index/index/category/cid/9">集团概况</a></li><img class="gang" src="http://localhost/My_Cms/template/default//static/img/gang.jpg"/></ul>
+		     	<ul><li><a href="http://localhost/My_mcs/index.php/Index/index/category/cid/9">集团概况</a></li><img class="gang" src="http://localhost/My_mcs/template/default//static/img/gang.jpg"/></ul>
 
-				 <ul><li><a href="http://localhost/My_Cms/index.php/Index/index/category/cid/1" target="_self">新闻中心</a></li><img class="gang" src="http://localhost/My_Cms/template/default//static/img/gang.jpg"/></ul>
+				 <ul><li><a href="http://localhost/My_mcs/index.php/Index/index/category/cid/1" target="_self">新闻中心</a></li><img class="gang" src="http://localhost/My_mcs/template/default//static/img/gang.jpg"/></ul>
 
 
-			    <ul> <li><a href="http://localhost/My_Cms/index.php/Index/index/category/cid/4" target="_self">产品专区</a></li><img class="gang" src="http://localhost/My_Cms/template/default//static/img/gang.jpg"/></ul>
+			    <ul> <li><a href="http://localhost/My_mcs/index.php/Index/index/category/cid/4" target="_self">产品专区</a></li><img class="gang" src="http://localhost/My_mcs/template/default//static/img/gang.jpg"/></ul>
 
-			     <ul><li><a href="http://localhost/My_Cms/index.php/Index/index/category/cid/10">客户服务</a></li><img class="gang" src="http://localhost/My_Cms/template/default//static/img/gang.jpg"/></ul>
-			     <ul><li><a href="http://localhost/My_Cms/index.php/Index/index/category/cid/15">公司介绍</a></li><img class="gang" src="http://localhost/My_Cms/template/default//static/img/gang.jpg"/></ul>
+			     <ul><li><a href="http://localhost/My_mcs/index.php/Index/index/category/cid/10">客户服务</a></li><img class="gang" src="http://localhost/My_mcs/template/default//static/img/gang.jpg"/></ul>
+			     <ul><li><a href="http://localhost/My_mcs/index.php/Index/index/category/cid/15">公司介绍</a></li><img class="gang" src="http://localhost/My_mcs/template/default//static/img/gang.jpg"/></ul>
 			    
-			    <ul> <li><a href="http://localhost/My_Cms/index.php/Index/index/category/cid/14">联系我们</a></li></ul>
+			    <ul> <li><a href="http://localhost/My_mcs/index.php/Index/index/category/cid/14">联系我们</a></li></ul>
 			    <!-- <ul> <li><a href="#">友情链接</a></li></ul> --><!-- 引入 导航-->
  		</div>
  			<!-- 间距 -->
@@ -50,9 +50,9 @@
 			<!-- 翻页窗 动画没图 -->
 		 	<div id="fanyechuang">
 		 		<ul class="max_box_1">
-		 			<li><img src="http://localhost/My_Cms/template/default//static//img/donghua.jpg" alt="" class="dh"/></li>
-		 			<li><img src="http://localhost/My_Cms/template/default//static//img/donghua.jpg" alt="" class="dh"/></li>
-		 			<li><img src="http://localhost/My_Cms/template/default//static//img/donghua.jpg" alt="" class="dh"/></li>
+		 			<li><img src="http://localhost/My_mcs/template/default//static//img/donghua.jpg" alt="" class="dh"/></li>
+		 			<li><img src="http://localhost/My_mcs/template/default//static//img/donghua.jpg" alt="" class="dh"/></li>
+		 			<li><img src="http://localhost/My_mcs/template/default//static//img/donghua.jpg" alt="" class="dh"/></li>
 		 		</ul>
 <!-- 
 		 		<dl class="s_adv">
@@ -65,7 +65,7 @@
 		 	<div id="jianju2"><!--间距*--></div>
 
 			<div id="qiyerongyu">
-				<ul class="qiyerongyu">企业荣誉 <a href="http://localhost/My_Cms/index.php/Index/index/category/cid/12" class="gengduo1">[更多]</a></ul>
+				<ul class="qiyerongyu">企业荣誉 <a href="http://localhost/My_mcs/index.php/Index/index/category/cid/12" class="gengduo1">[更多]</a></ul>
 				<?php		
 			import("ContentModel",GROUP_PATH."Cms/Content/Model");
 			$where="";
@@ -88,17 +88,17 @@
 				$field['url']=U("Index/content",array('id'=>$field['id']));
 				$field['title']=mb_substr($field['title'],0,11,"utf8");
 				$field['content']=mb_substr($field['content'],0,11,"utf8");
-				$field['thumb']="http://localhost/My_Cms/".$field['thumb'];
+				$field['thumb']="http://localhost/My_mcs/".$field['thumb'];
 				?>	 	
 					<li><a href="<?php echo $field['url'];?>"><?php echo $field['title'];?>…</a></li>
 				<?php endforeach;?>	
 
-				<img src="http://localhost/My_Cms/template/default//static/img1/52.jpg" alt="" width="200px" />
+				<img src="http://localhost/My_mcs/template/default//static/img1/52.jpg" alt="" width="200px" />
 
 			</div>
 
 	<div id="gongsixinwen">
-		<ul><strong>公司新闻</strong><a href="http://localhost/My_Cms/index.php/Index/index/category/cid/2" class="gengduo2">[更多]</a></ul>
+		<ul><strong>公司新闻</strong><a href="http://localhost/My_mcs/index.php/Index/index/category/cid/2" class="gengduo2">[更多]</a></ul>
 		 	<?php		
 			import("ContentModel",GROUP_PATH."Cms/Content/Model");
 			$where="";
@@ -121,7 +121,7 @@
 				$field['url']=U("Index/content",array('id'=>$field['id']));
 				$field['title']=mb_substr($field['title'],0,1000,"utf8");
 				$field['content']=mb_substr($field['content'],0,1000,"utf8");
-				$field['thumb']="http://localhost/My_Cms/".$field['thumb'];
+				$field['thumb']="http://localhost/My_mcs/".$field['thumb'];
 				?>	 	
 		 	 	<div class="tuzi">
 		 			<li class="tu4"><a href="<?php echo $field['url'];?>"><img src="<?php echo $field['thumb'];?>" width="139" height="94"/></a></li>	
@@ -151,7 +151,7 @@
 				$field['url']=U("Index/content",array('id'=>$field['id']));
 				$field['title']=mb_substr($field['title'],0,100,"utf8");
 				$field['content']=mb_substr($field['content'],0,100,"utf8");
-				$field['thumb']="http://localhost/My_Cms/".$field['thumb'];
+				$field['thumb']="http://localhost/My_mcs/".$field['thumb'];
 				?>	 	
 		 			<li><a href="<?php echo $field['url'];?>"><?php echo $field['title'];?></a><span><?php echo date('Y-m-d',$field['addtime']);?></span></li>
 		 	<?php endforeach;?>
@@ -166,7 +166,7 @@
 		 	<div id="yingxiaoketang">
 		 		<div class="yingxiao1">
 					<span class="yingxiao2"><strong>营销课堂</strong></span>
-					<span class="yingxiao3"><a href="http://localhost/My_Cms/index.php/Index/index/category/cid/20">[更多]</a></span>
+					<span class="yingxiao3"><a href="http://localhost/My_mcs/index.php/Index/index/category/cid/20">[更多]</a></span>
 				</div>
 				<br />
 				<div class="wenzi-borrom">
@@ -192,7 +192,7 @@
 				$field['url']=U("Index/content",array('id'=>$field['id']));
 				$field['title']=mb_substr($field['title'],0,10,"utf8");
 				$field['content']=mb_substr($field['content'],0,10,"utf8");
-				$field['thumb']="http://localhost/My_Cms/".$field['thumb'];
+				$field['thumb']="http://localhost/My_mcs/".$field['thumb'];
 				?>	 		
 				<a href="<?php echo $field['url'];?>">&nbsp;&nbsp;<strong><?php echo $field['title'];?>…</strong></a>
 				<?php endforeach;?>	
@@ -204,7 +204,7 @@
 	<div id="guozhenzhuankan">
 				 <div class="guozhen1">
 					<span class="guozhen2"><strong>国珍专刊</strong></span>
-					<span class="guozhen3"><a href="http://localhost/My_Cms/index.php/Index/index/category/cid/23">[更多]</a></span>
+					<span class="guozhen3"><a href="http://localhost/My_mcs/index.php/Index/index/category/cid/23">[更多]</a></span>
 				</div>
 				<?php		
 			import("ContentModel",GROUP_PATH."Cms/Content/Model");
@@ -228,7 +228,7 @@
 				$field['url']=U("Index/content",array('id'=>$field['id']));
 				$field['title']=mb_substr($field['title'],0,100,"utf8");
 				$field['content']=mb_substr($field['content'],0,100,"utf8");
-				$field['thumb']="http://localhost/My_Cms/".$field['thumb'];
+				$field['thumb']="http://localhost/My_mcs/".$field['thumb'];
 				?>	 	
 				<img src="<?php echo $field['thumb'];?>"/>
 				<div class="guozhen-zitu">
@@ -250,7 +250,7 @@
 			<div id="gonggao">
 				<div class="gonggao1">
 					<span class="gonggao2"><strong>公告</strong></span>
-					<span class="gengduo3"><a href="http://localhost/My_Cms/index.php/Index/index/category/cid/3">[更多]</a></span>
+					<span class="gengduo3"><a href="http://localhost/My_mcs/index.php/Index/index/category/cid/3">[更多]</a></span>
 				</div>
 				<?php		
 			import("ContentModel",GROUP_PATH."Cms/Content/Model");
@@ -274,7 +274,7 @@
 				$field['url']=U("Index/content",array('id'=>$field['id']));
 				$field['title']=mb_substr($field['title'],0,12,"utf8");
 				$field['content']=mb_substr($field['content'],0,12,"utf8");
-				$field['thumb']="http://localhost/My_Cms/".$field['thumb'];
+				$field['thumb']="http://localhost/My_mcs/".$field['thumb'];
 				?>	 	
 				 <li><a href="<?php echo $field['url'];?>"><?php echo $field['title'];?></a></li>
 				<?php endforeach;?>
@@ -284,7 +284,7 @@
 			 	<div id="kefuzhichuang">
 			 		<div id="kefu1">
 						<span class="kefu2"><strong>健康知识</strong></span>
-						<span class="kefu3"><a href="http://localhost/My_Cms/index.php/Index/index/category/cid/17">[更多]</a></span>
+						<span class="kefu3"><a href="http://localhost/My_mcs/index.php/Index/index/category/cid/17">[更多]</a></span>
 					</div>
 					<?php		
 			import("ContentModel",GROUP_PATH."Cms/Content/Model");
@@ -308,7 +308,7 @@
 				$field['url']=U("Index/content",array('id'=>$field['id']));
 				$field['title']=mb_substr($field['title'],0,14,"utf8");
 				$field['content']=mb_substr($field['content'],0,14,"utf8");
-				$field['thumb']="http://localhost/My_Cms/".$field['thumb'];
+				$field['thumb']="http://localhost/My_mcs/".$field['thumb'];
 				?>	 		
 					  	<li><a href="<?php echo $field['url'];?>"><?php echo $field['title'];?>…</a></li>
 					<?php endforeach;?>	
@@ -320,7 +320,7 @@
 		   	<div id="aixinjijinhui">
 		   			<div id="aixin1">
 						<span class="aixin2"><strong>爱心基金会</strong></span>
-						<span class="aixin3"><a href="http://localhost/My_Cms/index.php/Index/index/category/cid/22">[更多]</a></span>
+						<span class="aixin3"><a href="http://localhost/My_mcs/index.php/Index/index/category/cid/22">[更多]</a></span>
 					</div>
 					<?php		
 			import("ContentModel",GROUP_PATH."Cms/Content/Model");
@@ -344,7 +344,7 @@
 				$field['url']=U("Index/content",array('id'=>$field['id']));
 				$field['title']=mb_substr($field['title'],0,14,"utf8");
 				$field['content']=mb_substr($field['content'],0,14,"utf8");
-				$field['thumb']="http://localhost/My_Cms/".$field['thumb'];
+				$field['thumb']="http://localhost/My_mcs/".$field['thumb'];
 				?>	 	
 					  	<li><strong><a href="<?php echo $field['url'];?>"><?php echo $field['title'];?>…</a></strong></li>
 					<?php endforeach;?>	
@@ -356,7 +356,7 @@
 		 	<div id="jieneng">
 					<div id="jieneng1">
 						<span class="jieneng2"><strong>节能环保</strong></span>
-						<span class="jieneng3"><a href="http://localhost/My_Cms/index.php/Index/index/category/cid/19">[更多]</a></span>
+						<span class="jieneng3"><a href="http://localhost/My_mcs/index.php/Index/index/category/cid/19">[更多]</a></span>
 					</div>
 					<?php		
 			import("ContentModel",GROUP_PATH."Cms/Content/Model");
@@ -380,7 +380,7 @@
 				$field['url']=U("Index/content",array('id'=>$field['id']));
 				$field['title']=mb_substr($field['title'],0,14,"utf8");
 				$field['content']=mb_substr($field['content'],0,14,"utf8");
-				$field['thumb']="http://localhost/My_Cms/".$field['thumb'];
+				$field['thumb']="http://localhost/My_mcs/".$field['thumb'];
 				?>	 		
 					  	<li><a href="<?php echo $field['url'];?>"><?php echo $field['title'];?>…</a></li>
 					<?php endforeach;?>	

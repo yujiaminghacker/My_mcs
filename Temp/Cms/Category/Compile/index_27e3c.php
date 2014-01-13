@@ -11,29 +11,29 @@
 <script src='http://localhost/hdphp/hdphp/hdphp/../hdjs/org/cal/lhgcalendar.min.js'></script>
 <script type='text/javascript'>
 		HOST = 'http://localhost';
-		ROOT = 'http://localhost/My_Cms';
-		WEB = 'http://localhost/My_Cms/index.php';
-		URL = 'http://localhost/My_Cms/index.php/Category/Index/index';
+		ROOT = 'http://localhost/My_mcs';
+		WEB = 'http://localhost/My_mcs/index.php';
+		URL = 'http://localhost/My_mcs/index.php/Category/Index/index';
 		HDPHP = 'http://localhost/hdphp/hdphp/hdphp';
 		HDPHPDATA = 'http://localhost/hdphp/hdphp/hdphp/Data';
 		HDPHPTPL = 'http://localhost/hdphp/hdphp/hdphp/Lib/Tpl';
 		HDPHPEXTEND = 'http://localhost/hdphp/hdphp/hdphp/Extend';
-		APP = 'http://localhost/My_Cms/index.php/Category';
-		CONTROL = 'http://localhost/My_Cms/index.php/Category/Index';
-		METH = 'http://localhost/My_Cms/index.php/Category/Index/index';
-		GROUP = 'http://localhost/My_Cms/G:\wamp\www\My_Cms\App';
-		TPL = 'http://localhost/My_Cms/App/Cms/Category/Tpl';
-		CONTROLTPL = 'http://localhost/My_Cms/App/Cms/Category/Tpl/Index';
-		STATIC = 'http://localhost/My_Cms/App/Cms/Category/Tpl/Static';
-		PUBLIC = 'http://localhost/My_Cms/App/Cms/Category/Tpl/Public';
+		APP = 'http://localhost/My_mcs/index.php/Category';
+		CONTROL = 'http://localhost/My_mcs/index.php/Category/Index';
+		METH = 'http://localhost/My_mcs/index.php/Category/Index/index';
+		GROUP = 'http://localhost/My_mcs/G:\wamp\www\My_mcs\App';
+		TPL = 'http://localhost/My_mcs/App/Cms/Category/Tpl';
+		CONTROLTPL = 'http://localhost/My_mcs/App/Cms/Category/Tpl/Index';
+		STATIC = 'http://localhost/My_mcs/App/Cms/Category/Tpl/Static';
+		PUBLIC = 'http://localhost/My_mcs/App/Cms/Category/Tpl/Public';
 </script>
          <hdui bootstrap="true"/>
-    	<link type="text/css" rel="stylesheet" href="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/css/css.css"/>
-        <link type="text/css" rel="stylesheet" href="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/css/bootstrap.min.css"/>
-        <link type="text/css" rel="stylesheet" href="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/css/bootstrap-responsive.min.css"/>
-        <link type="text/css" rel="stylesheet" href="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/css/fullcalendar.css"/>
-        <link type="text/css" rel="stylesheet" href="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/css/unicorn.main.css"/>
-        <link type="text/css" rel="stylesheet" href="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/css/unicorn.grey.css"/>
+    	<link type="text/css" rel="stylesheet" href="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/css/css.css"/>
+        <link type="text/css" rel="stylesheet" href="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/css/bootstrap.min.css"/>
+        <link type="text/css" rel="stylesheet" href="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/css/bootstrap-responsive.min.css"/>
+        <link type="text/css" rel="stylesheet" href="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/css/fullcalendar.css"/>
+        <link type="text/css" rel="stylesheet" href="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/css/unicorn.main.css"/>
+        <link type="text/css" rel="stylesheet" href="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/css/unicorn.grey.css"/>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
 	<body>
 		
@@ -55,7 +55,7 @@
 		<div id="sidebar">
 			<a href="#" class="visible-phone"><i class="icon icon-home"></i> Dashboard</a>
 			<ul>
-				<li class=""><a href="http://localhost/My_Cms"><i class="icon icon-home"></i> <span>前台Index</span></a></li>
+				<li class=""><a href="http://localhost/My_mcs"><i class="icon icon-home"></i> <span>前台Index</span></a></li>
 				<li class="submenu active open">
 					<a href="#"><i class="icon icon-th-list"></i> <span>总管理</span> <span class="label">2</span></a>
 					<ul>
@@ -155,16 +155,16 @@ endif;?>
 </div>
 		</div>
 		
-			<script type="text/javascript" src="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/js/excanvas.min.js"></script>
-		    <script type="text/javascript" src="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/js/jquery.min.js"></script>
-			<script type="text/javascript" src="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/js/jquery.ui.custom.js"></script>
-			<script type="text/javascript" src="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/js/bootstrap.min.js"></script>
-			<script type="text/javascript" src="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/js/jquery.flot.min.js"></script>
-			<script type="text/javascript" src="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/js/jquery.flot.resize.min.js"></script>
-			<script type="text/javascript" src="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/js/jquery.peity.min.js"></script>
-			<script type="text/javascript" src="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/js/fullcalendar.min.js"></script>
-			<script type="text/javascript" src="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/js/unicorn.js"></script>
-			<script type="text/javascript" src="http://localhost/My_Cms/App/Cms/Category/Tpl/Index/js/unicorn.dashboard.js"></script>
+			<script type="text/javascript" src="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/js/excanvas.min.js"></script>
+		    <script type="text/javascript" src="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/js/jquery.min.js"></script>
+			<script type="text/javascript" src="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/js/jquery.ui.custom.js"></script>
+			<script type="text/javascript" src="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/js/bootstrap.min.js"></script>
+			<script type="text/javascript" src="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/js/jquery.flot.min.js"></script>
+			<script type="text/javascript" src="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/js/jquery.flot.resize.min.js"></script>
+			<script type="text/javascript" src="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/js/jquery.peity.min.js"></script>
+			<script type="text/javascript" src="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/js/fullcalendar.min.js"></script>
+			<script type="text/javascript" src="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/js/unicorn.js"></script>
+			<script type="text/javascript" src="http://localhost/My_mcs/App/Cms/Category/Tpl/Index/js/unicorn.dashboard.js"></script>
 
 	</body>
 </html>
